@@ -1,0 +1,15 @@
+Diseñar para la discapacidad mejora la experiencia de todos. 
+Se basa en los principios POUR (Perceptible, Operable, Comprensible, Robusto).
+
+Métricas técnicas: Se exige un tamaño táctil mínimo de 44x44 
+pt (iOS) o 48x48 dp (Android) para evitar toques accidentales. 
+El contraste debe cumplir el estándar WCAG AA (4.5:1) para que 
+el texto sea legible incluso bajo el sol.
+
+Adaptabilidad: El diseño no debe romperse cuando el usuario 
+aumenta el tamaño de la fuente hasta un 200%.
+
+Pruebas de fuego: Una parte clave de esta sesión es aprender 
+a usar los lectores de pantalla (TalkBack o VoiceOver) para 
+completar tareas con los ojos cerrados, asegurando que cada 
+botón tenga una etiqueta clara (ej. "Botón Cerrar" en lugar de solo "Botón").

@@ -1,0 +1,17 @@
+Las 10 Heurísticas de Nielsen aplicadas a móvil: Se estudian 
+reglas como la visibilidad del estado del sistema 
+(que el usuario sepa si algo se está cargando o guardando), 
+la prevención de errores (validar datos antes de que el usuario 
+los envíe) y la consistencia (no cambiar el significado de los iconos).
+
+Leyes de UX clave:
+Ley de Fitts: Los objetivos (botones) deben ser grandes y estar cerca 
+del pulgar (zona inferior).
+
+Ley de Hick: A más opciones, más tiempo tarda el usuario en decidir. Se busca simplificar.
+
+Ley de Jakob: Los usuarios prefieren que tu app funcione igual que las apps que ya usan.
+
+Patrones específicos: El uso correcto del FAB (Floating Action Button) 
+para la acción principal, el Pull to refresh para actualizar listas y 
+los Bottom Sheets para menús contextuales que no interrumpan el flujo.

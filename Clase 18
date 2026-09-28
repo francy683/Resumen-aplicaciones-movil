@@ -1,0 +1,15 @@
+Esta sesión aborda cómo diseñar interfaces que parecen 
+"vivas" pero que deben mantener la transparencia.
+
+Modos de interacción: Se diferencia entre el Piloto automático 
+(la IA hace todo), el Copiloto (la IA sugiere y el humano decide) 
+y el Consultor (la IA explica opciones). Las fuentes recomiendan
+ el modo Copiloto para mantener el control humano.
+
+Estados de la IA: Se debe diseñar qué muestra la app mientras 
+la IA está pensando (necesita una narrativa de espera), cómo 
+presenta los resultados indicando su grado de certeza y cómo 
+maneja las alucinaciones o errores de forma elegante.
+
+Explicabilidad: Es vital decirle al usuario por qué la IA está 
+sugiriendo algo y permitirle corregir o borrar esos datos en cualquier momento.

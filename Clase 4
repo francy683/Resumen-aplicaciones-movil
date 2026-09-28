@@ -1,0 +1,7 @@
+Sesión 4 — Interfaces para Videojuegos: 
+Combina la UX de juego (diversión y flujo) 
+con la UI (HUD y controles). El HUD (Heads-up display) 
+debe mostrar lo vital sin tapar la acción. 
+Se busca un feedback "juicy" (visual, sonoro y háptico) 
+para generar satisfacción y se cuida la economía del juego 
+(monedas y pases de batalla).

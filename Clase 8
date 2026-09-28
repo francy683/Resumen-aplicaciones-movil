@@ -1,0 +1,7 @@
+Sesión 8 — Microinteracciones y Animación: 
+El movimiento debe tener un propósito 
+(comunicar estados o jerarquía). Las 
+duraciones ideales son de 100 a 500 ms. 
+Se usan skeletons de carga para reducir 
+la percepción de espera y animaciones 
+de significado para guiar al usuario.

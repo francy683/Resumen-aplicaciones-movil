@@ -1,0 +1,8 @@
+Sesión 3 — Arquitectura y Navegación: 
+Organiza el contenido bajo la Ley de Miller 
+(límite de memoria de trabajo). Introduce 
+patrones como la barra de pestañas inferior 
+(3-5 destinos) y la "regla del pulgar" para 
+ubicar acciones en zonas de fácil alcance. 
+Se diseñan los 4 estados de toda pantalla: 
+vacío, cargando, con datos y error
